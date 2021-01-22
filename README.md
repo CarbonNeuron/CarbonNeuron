@@ -1,4 +1,4 @@
-### Howdy, I'm carbon 👋
+### Howdy, I'm Carbon 👋
 
 - 🔭 I’m currently working on [AmongUsCapture](http://github.com/automuteus/AmongUsCapture)
 - 🌱 I'm currently learning WPF
