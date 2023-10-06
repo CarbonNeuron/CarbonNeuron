@@ -1,7 +1,6 @@
-[![An image of @carbonneuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carbonneuron)](https://holopin.io/@carbonneuron)
+<img src="./github-header-image.png" width="100%">
 
-### Howdy, I'm Carbon 👋
-
-- 🔭 I’m currently working on becoming a database admin
-- 🌱 I'm currently learning SQL
-- ⚡ Fun fact: I never sleep
+## 🧠 About Me
+- 🔭 I’m on a journey to become a seasoned database administrator.
+- 🌱 Sharpening my skills in SQL, C#, and cloud technologies.
+- 🎮 Fun fact: When I'm not coding, you'll find me sleeping or watching YouTube!
